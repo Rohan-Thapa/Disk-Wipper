@@ -199,3 +199,4 @@ if __name__ == "__main__":
     main()
 
 # Developed by Rohan Thapa for wipping the disks.
+# Remember do try this only with the Flask Drive or Pen Drives inserted to your system rather than doing it on the actual system partition.
